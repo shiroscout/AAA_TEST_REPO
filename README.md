@@ -2,7 +2,8 @@
 
     README File
 > **Name:** README.MD
-> Purpose: General information about:
+    
+    Purpose: General information about:
 >
 >> * What this project is.
 >> * The projects intended use.
